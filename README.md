@@ -10,7 +10,7 @@ Práctica 1 - Levantar un clúster de Hadoop con los servicios de YARN, hacer un
 Clonar el repositorio para tener ya todos los archivos
 
 ```bash
-  git clone https://github.com/MarioSantanaTajamar/WordCount-Hadoop.git
+    git clone https://github.com/PabloHerreraTajamar/Word-count.git
 ```
 
 Como ya esta el compose hecho, montamos el contenedor
